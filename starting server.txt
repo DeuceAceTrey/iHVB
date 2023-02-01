@@ -1,0 +1,6 @@
+1.Open cmd(windows+R > cmd)
+2.cd c:/iHVB
+3.npm start
+4.Open another cmd
+5.cd c:/iHVB
+6.npm run server
