@@ -149,8 +149,8 @@ def main():
     driver = webdriver.Chrome(options=chrome_options)
     #driver = webdriver.Chrome(options=chrome_options)
     driver.delete_all_cookies()
-    username = 'office@b-smart.ro'
-    password = 'licitatiipublice'
+    username = '{username}'
+    password = '{password}'
     #log.info('Logging')
     LogIn(driver,username,password)
     
